@@ -1,12 +1,12 @@
 # Olá, eu sou o Guilherme 👋
 
-### 🚀 Desenvolvedor focado em automação de processos e sistemas educacionais escaláveis
+### Desenvolvedor focado em automação de processos e sistemas educacionais escaláveis
 
 Ajudo instituições e negócios a automatizar atendimentos, integrar sistemas e escalar operações utilizando Moodle, APIs e workflows inteligentes.
 
 ---
 
-## 💼 Atuação Profissional
+## Atuação Profissional
 
 * **Arlo Tecnologia:** Fundador — criação de conteúdos técnicos sobre hardware e software com foco em análise prática e performance.
   
@@ -23,9 +23,9 @@ Ajudo instituições e negócios a automatizar atendimentos, integrar sistemas e
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🤖 Sistema de Atendimento Automatizado (TCC)
+### Sistema de Atendimento Automatizado (TCC)
 Automação completa de atendimento acadêmico com arquitetura baseada em ferramentas open source:
 
 - Chatwoot (gestão de atendimento)
@@ -41,7 +41,7 @@ Automação completa de atendimento acadêmico com arquitetura baseada em ferram
 
 ---
 
-### 📚 Customizações Moodle
+### Customizações Moodle
 
 - Implementação de regras de avaliação personalizadas  
 - Automatização de cálculo de notas e recuperação  
@@ -50,7 +50,7 @@ Automação completa de atendimento acadêmico com arquitetura baseada em ferram
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 - **Backend:** PHP (Moodle Dev), Python  
 - **Frontend:** JavaScript  
@@ -61,7 +61,7 @@ Automação completa de atendimento acadêmico com arquitetura baseada em ferram
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![Estatísticas do Guilherme](https://github-readme-stats.vercel.app/api?username=Guilhermedev&show_icons=true&theme=radical)
 
@@ -69,7 +69,7 @@ Automação completa de atendimento acadêmico com arquitetura baseada em ferram
 
 ---
 
-## 📬 Contato
+## Contato
 
 Estou aberto a:
 - Projetos de automação  
